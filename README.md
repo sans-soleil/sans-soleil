@@ -1,5 +1,5 @@
-I am Pati, I used to teach Art-Based Research and Comp Literature\
+I used to teach Art-Based Research and Comp Literature\
 now coding @42 The Network, Amsterdam (Codam)
 
 This is my playground 🍄\
--- Interested in Digital Humanities projects
+-- Interested in Digital Humanities & Tech Ed projects
